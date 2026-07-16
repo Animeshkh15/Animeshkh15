@@ -195,11 +195,11 @@ LLMs • LangChain • FAISS • RAG • AI Agents • OpenAI API
 
 <p>
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/animeshkh">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:animeshk.2004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
