@@ -36,8 +36,7 @@ class Animesh:
 
     currently_learning = [
         "Advanced RAG",
-        "AWS",
-        "MLOps",
+        "Open Knowledge Format(OKF)"
         "LLM Security"
     ]
 
