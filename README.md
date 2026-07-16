@@ -60,7 +60,7 @@ class Animesh:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts"/>
 
 </p>
 
@@ -80,7 +80,7 @@ LLMs • LangChain • FAISS • RAG • AI Agents • OpenAI API
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
 
 </p>
 
@@ -110,7 +110,7 @@ LLMs • LangChain • FAISS • RAG • AI Agents • OpenAI API
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,okta,postman,splunk"/>
 
 </p>
 
