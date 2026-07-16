@@ -10,9 +10,9 @@
 
 <div align="center">
 
-# Hi 👋 I'm Animesh
+<h1>Hey! What's Up</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=4th+Year+Computer+Science+Student;Artificial+Intelligence+%26+Machine+Learning;Building+Production-Grade+AI+Applications;LLMs+%7C+RAG+%7C+AI+Agents;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=4th+Year+Computer+Science+Student;Artificial+Intelligence+%26+Machine+Learning;Building+Production-Grade+AI+Applications;LLMs+%7C+RAG+%7C+AI+Agents;Always+Learning+Something+New" alt="Typing SVG" />
 
 </div>
 
