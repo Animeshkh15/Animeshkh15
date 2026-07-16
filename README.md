@@ -194,7 +194,7 @@ LLMs • LangChain • FAISS • RAG • AI Agents • OpenAI API
 
 <p>
 
-<a href="www.linkedin.com/in/animeshkh">
+<a href="https://www.linkedin.com/in/animeshkh/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -219,3 +219,9 @@ LLMs • LangChain • FAISS • RAG • AI Agents • OpenAI API
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 
 </div>
+
+---
+
+⭐ Thanks for visiting my profile!
+
+If you're interested in AI, ML, or software engineering, feel free to connect.
